@@ -5,3 +5,5 @@ https://github.com/RicardoEgidioJr/gerenciaConfiguracao/issues/2
 Texto para commit Eduardo
 
 Texto para commit Ricardo
+
+Texto para gerar conflito
