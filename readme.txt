@@ -1,1 +1,1 @@
-Projeto criado por Ricardo Egidio
+Projeto criado por Ricardo Egidio e Eduardo Godoy
